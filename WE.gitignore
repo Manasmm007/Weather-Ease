@@ -1,4 +1,0 @@
-SEN.env
-git rm --cached SEN.env
-git add WE.gitignore
-git commit -m "Add SEN.env file to WE.gitignore"
